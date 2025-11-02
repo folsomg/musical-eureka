@@ -2,6 +2,7 @@
 
 A musical eureka project
 
+// Updated at 2026-01-10
 ## Installation
 
 \`\`\`bash
